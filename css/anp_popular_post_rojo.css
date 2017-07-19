@@ -1,0 +1,114 @@
+div.num_post_list{
+	padding: 10px !important;
+	margin: 0px;
+	max-width: 90%;
+}
+div.num_post_list #anp_credit{
+	font-size: 10px;
+	clear: both;
+}
+div.num_post_list div.post {
+	width: 100%;
+	font-size: 13px;
+	margin: 0px !important;
+	float: left;
+	padding: 5px 0px!important;
+	display: inline !important;
+	color: #0f0f0f;
+	position: relative;
+	line-height: 17px !important;
+	clear: both;
+	border: none !important;	
+}
+div.num_post_list div.post a{
+	padding: 0px 10px;
+	color: #0f0f0f;
+	display: block;
+	margin: 0px !important;
+}
+div.num_post_list div.tex_anp{
+	padding: 9px 0px;
+	width: 100%;
+}
+div.num_post_list div.post a:hover{
+	padding: 0px 10px;
+	color: #fff;
+	display: block;
+}
+div.num_post_list div.num_com{
+	float: right;
+	padding: 5px 12px;
+	position: relative;
+	bottom: -5px;
+	left: 15px;
+	background-color: #534e4e;
+	color: #fff;
+}
+
+.a1{
+	background: rgba(124,33,30, 0.85)!important;
+	width: 100%;
+}
+.a2{
+	background: rgba(175,38,38, 0.85)!important;
+	width: 55% ;
+	position: relative;
+	bottom: 6px;
+	
+}
+.a3{
+	background: rgba(204,45,48, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 12px;
+	
+}
+.a4{
+	background: rgba(226,61,40, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 18px;
+	
+}
+.a5{
+	background: rgba(239,43,45, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 24px;
+	
+}
+.a6{
+	background:  rgba(252,79,89, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 30px;
+	
+}
+.a7{
+	background:  rgba(252,102,117, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 36px;
+	
+}
+.a8{
+	background: rgba(249,178,183, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 42px;
+	
+}
+.a9{
+	background: rgba( 249,158,163, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 48px;
+	
+}
+.a10{
+	background: rgba( 249,175,173, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 54px;
+}
+
